@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/images/firstscreen .jpg.jpg" alt="First Screen" width="300"/>
+  <img src="assets/images/firstscreen .jpg" alt="First Screen" width="300"/>
   
